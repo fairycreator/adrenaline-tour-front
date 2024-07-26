@@ -1,10 +1,10 @@
 {
-  "main": "Головна",
-  "policy": "Політика конфіденційності",
-  "rights": "© Всі права захищені © 2024 Adrenaline Tour",
-  "support": "Створено при підтримці",
-  "ariaGoIT": "Посилання на офіційний сайт партнера GoIT",
-  "linkGoIT": "https://goit.global/ua/",
-  "ariaSoftRyzen": "Посилання на офіційний сайт партнера SoftRyzen",
-  "linkSoftRyzen": "https://www.softryzen.com/"
+  "main": "Main",
+  "policy": "Privacy Policy",
+  "rights": "© All rights reserved © 2024 Adrenaline Tour",
+  "support": "Created with support from",
+  "ariaAcGH": "Link to GitHub",
+  "linkAcGH": "https://github.com/fairycreator",
+  "ariaAC": "Link to LinkedIn",
+  "linkAC": "https://www.linkedin.com/in/andrijcsuhran"
 }

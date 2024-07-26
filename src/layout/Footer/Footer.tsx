@@ -57,10 +57,10 @@ const Footer = () => {
         <div className=' flex flex-wrap justify-center gap-x-4 gap-y-3 md:gap-6'>
           <p className='text-center smOnly:basis-full'>{footerData.support}</p>
           <a
-            href={footerData.linkGoIT}
+            href={footerData.linkAcGH}
             target='_blank'
             rel='noopener noreferrer nofollow'
-            aria-label={footerData.ariaGoIT}
+            aria-label={footerData.ariaAcGH}
             className='text-white transition hover:text-accentDefaultOrange focus:text-accentDefaultOrange'
           >
             <GoItIcon
@@ -70,10 +70,10 @@ const Footer = () => {
             />
           </a>
           <a
-            href={footerData.linkSoftRyzen}
+            href={footerData.linkAC}
             target='_blank'
             rel='noopener noreferrer nofollow'
-            aria-label={footerData.ariaSoftRyzen}
+            aria-label={footerData.ariaAC}
             className='brightness-0 invert transition-filter duration-500 ease-out hover:brightness-100 hover:invert-0 focus:brightness-100 focus:invert-0 md:-ml-2'
           >
             <SoftRyzenIcon width={131} height={19} className='transition' />
