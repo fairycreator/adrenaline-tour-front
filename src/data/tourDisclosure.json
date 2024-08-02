@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "question": "Як підготуватись до подорожі?",
+    "question": "How to Prepare for the Trip?",
     "answers": [
       {
         "title": "",
         "text": [
-          "Планування маршруту для пішохідного туризму належним чином і врахування власних фізичних можливостей - це критично важливо для успішного і безпечного походу. Поради, які можуть бути вам корисними:",
-          "\u25CF оцінка власної підготовки;",
-          "\u25CF аналіз маршруту;",
-          "\u25CF урахування погодних умов;",
-          "\u25CF планування харчування разом з друзями."
+          "Properly planning your hiking route and considering your physical capabilities is critical for a successful and safe hike. Here are some tips that may be useful to you:",
+          "\u25CF Assess your own preparedness;",
+          "\u25CF Analyze the route;",
+          "\u25CF Consider weather conditions;",
+          "\u25CF Plan meals together with friends."
         ]
       }
     ]
   },
   {
     "id": 2,
-    "question": "Обов'язкові речі",
+    "question": "Essential Items",
     "answers": [
       {
         "title": "",
         "text": [
-          "Не беріть зайвого, але не забудьте про обов'язкові речі як-от сірники, карта, аптечка. Обережність та відповідальність – ваші найкращі помічники в поході.Розумно ставтеся до пакування та вибору речей для мандрівки. Стереотип про туриста з величезним рюкзаком за плечима давно в минулому. Завдяки технологічному розвиткові ринку спорядження сучасні туристи з досвідом можуть сміливо йти у тижневий похід із наплечником вагою не більше 7-10 кілограмів! Цього можна досягти, якщо надавати пріоритет максимально універсальному та легкому спорядженню, не брати купи зайвого одягу, посуду, Однак в жодному разі не йдеться про нехтування комфортом і безпекою!"
+          "Don’t take unnecessary things, but don’t forget essential items like matches, a map, and a first-aid kit. Caution and responsibility are your best helpers on the hike. Be sensible about packing and choosing items for the trip. The stereotype of a tourist with a huge backpack is long gone. Thanks to the technological development of the gear market, experienced modern tourists can confidently embark on a week-long hike with a backpack weighing no more than 7-10 kilograms! This can be achieved by prioritizing the most versatile and lightweight gear, not taking heaps of unnecessary clothes, dishes, etc. However, this does not mean neglecting comfort and safety!"
         ]
       }
     ]
   },
   {
     "id": 3,
-    "question": "Харчування та сон",
+    "question": "Nutrition and Sleep",
     "answers": [
       {
         "title": "",
         "text": [
-          "Правильне харчування та відпочинок є ключовими елементами успішного і безпечного походу. Ось деякі поради, які можуть допомогти вам забезпечити достатній запас їжі та якісний сон під час вашої мандрівки:"
+          "Proper nutrition and rest are key elements of a successful and safe hike. Here are some tips to help you ensure sufficient food supplies and quality sleep during your trip:"
         ]
       },
       {
-        "title": "Харчування під час походу:",
+        "title": "Nutrition During the Hike:",
         "text": [
-          "\u25CF Плануйте ваше харчування на основі тривалості та інтенсивності маршруту.",
-          "\u25CF Вибирайте легко переносимі та висококалорійні продукти, такі як сухофрукти, горіхи, крупи, сушене м'ясо та енергетичні батончики.",
-          "\u25CF Не забувайте про важливість гідратації. Беріть достатню кількість води або інших напоїв під час походу."
+          "\u25CF Plan your meals based on the duration and intensity of the route.",
+          "\u25CF Choose easily portable and high-calorie foods such as dried fruits, nuts, grains, dried meat, and energy bars.",
+          "\u25CF Don't forget the importance of hydration. Take enough water or other drinks during the hike."
         ]
       },
       {
-        "title": "Відпочинок і сон:",
+        "title": "Rest and Sleep:",
         "text": [
-          "\u25CF Плануйте місця ночівлі заздалегідь. ",
-          "\u25CF Обирайте безпечні та комфортні місця для встановлення намету.",
-          "\u25CF Уникайте вживання великої кількості їжі або алкоголю перед сном, оскільки це може вплинути на ваш стан організму наступного дня під час подальшого сходження. "
+          "\u25CF Plan your overnight stops in advance.",
+          "\u25CF Choose safe and comfortable places to set up your tent.",
+          "\u25CF Avoid eating large amounts of food or alcohol before sleep, as this can affect your body's condition the next day during further ascents."
         ]
       },
       {
         "title": "",
         "text": [
-          "Пам'ятайте, що збалансоване харчування та якісний сон допоможуть вам зберегти енергію та витривалість під час мандрівки."
+          "Remember that balanced nutrition and quality sleep will help you maintain energy and endurance during your trip."
         ]
       }
     ]
