@@ -1,6 +1,6 @@
 {
-  "buttonMore": "Більше",
-  "buttonLess": "Згорнути",
-  "defaultActivity": "Всі активності",
-  "defaultCountry": "Всі країни"
+  "buttonMore": "More",
+  "buttonLess": "Less",
+  "defaultActivity": "All Activities",
+  "defaultCountry": "All Countries"
 }
