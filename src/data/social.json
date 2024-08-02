@@ -3,12 +3,12 @@
     "id": "1",
     "name": "instagram",
     "href": "https://www.instagram.com/adrenalinetourtranscarpatia/",
-    "ariaLabel": "посилання на інстаграм"
+    "ariaLabel": "link to instagram"
   },
   {
     "id": "2",
     "name": "facebook",
     "href": "https://facebook.com/adrenalinetour.eu",
-    "ariaLabel": "посилання на фейсбук"
+    "ariaLabel": "link to facebook"
   }
 ]
