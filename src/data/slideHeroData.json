@@ -3,34 +3,34 @@
     {
       "_id": "1",
       "src": "/images/hero/main/image1-lg.webp",
-      "alt": "Байкер на вершині гори"
+      "alt": "Biker on a mountain peak"
     },
     {
       "_id": "2",
       "src": "/images/hero/main/image2-lg.webp",
-      "alt": "Альпіністи на маршруті в зимових горах"
+      "alt": "Climbers on a route in winter mountains"
     },
     {
       "_id": "3",
       "src": "/images/hero/main/image3-lg.webp",
-      "alt": "Туристка спускається з гори"
+      "alt": "Hiker descending a mountain"
     }
   ],
   "tours": [
     {
       "_id": "1",
       "src": "/images/hero/our-tours/image1-lg.webp",
-      "alt": "Група туристів в горах"
+      "alt": "Group of hikers in the mountains"
     },
     {
       "_id": "2",
       "src": "/images/hero/our-tours/image2-lg.webp",
-      "alt": "Стрибок скейтбордиста"
+      "alt": "Skateboarder jumping"
     },
     {
       "_id": "3",
       "src": "/images/hero/our-tours/image3-lg.webp",
-      "alt": "Скелелаз на скелі"
+      "alt": "Rock climber on a cliff"
     }
   ]
 }
