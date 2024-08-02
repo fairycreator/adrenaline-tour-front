@@ -1,20 +1,20 @@
 {
-  "title": ["Поради ", "для початківців"],
+  "title": ["Tips", "for Beginners"],
   "cards": [
     {
       "id": "1",
-      "title": "Безпека на першому місці",
-      "text": "Завжди дотримуйтесь принципів безпеки в горах і під час походів. Не ризикуйте без потрібного обладнання та знань."
+      "title": "Safety First",
+      "text": "Always follow safety principles in the mountains and during hikes. Don't take risks without the necessary equipment and knowledge."
     },
     {
       "id": "2",
-      "title": "Урахування погодних умов",
-      "text": "Перевірте прогноз погоди перед відправленням і підготуйтеся до будь-яких погодних умов. Відповідно до цього виберіть відповідний одяг та обладнання."
+      "title": "Considering Weather Conditions",
+      "text": "Check the weather forecast before departure and prepare for any weather conditions. Choose appropriate clothing and equipment accordingly."
     },
     {
       "id": "3",
-      "title": "Аналіз маршруту",
-      "text": "Оберіть маршрут, який відповідає вашому рівню підготовки. Завжди дотримуйтесь принципів безпеки в горах і під час походів. Не ризикуйте без потрібного обладнання та знань."
+      "title": "Route Analysis",
+      "text": "Choose a route that matches your level of preparation. Always follow safety principles in the mountains and during hikes. Don't take risks without the necessary equipment and knowledge."
     }
   ]
 }
