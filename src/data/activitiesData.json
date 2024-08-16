@@ -1,6 +1,6 @@
 {
-  "title": "Наші\nактивності",
-  "button": "Переглянути всі активності",
+  "title": "Our Activities",
+  "button": "View All Activities",
   "images": [
     {
       "id": 1,
@@ -8,8 +8,8 @@
       "height": 480,
       "sizes": "(max-width: 480px) 156px, (max-width: 1280px) 334px",
       "src": "/images/activities/img-1.webp",
-      "alt": "Пара закоханих туристів з вершини дивляться на захід сонця",
-      "text": "Пішохідні походи в гори"
+      "alt": "A couple of tourists in love watching the sunset from a summit",
+      "text": "Hiking in the Mountains"
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
       "height": 800,
       "sizes": "(max-width: 480px) 140px, (max-width: 1280px) 306px, 455px",
       "src": "/images/activities/img-2.webp",
-      "alt": "Туристи піднімаються в гору по віа-феррата",
-      "text": "віа-феррата"
+      "alt": "Tourists climbing a via ferrata",
+      "text": "Via Ferrata"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
       "height": 480,
       "sizes": "(max-width: 480px) 156px, (max-width: 1280px) 334px, 600px",
       "src": "/images/activities/img-3.webp",
-      "alt": "Каякери на воді",
-      "text": "Каякінг"
+      "alt": "Kayakers on the water",
+      "text": "Kayaking"
     },
     {
       "id": 4,
@@ -35,8 +35,8 @@
       "height": 640,
       "sizes": "(max-width: 480px) 140px, (max-width: 1280px) 304px",
       "src": "/images/activities/img-4.webp",
-      "alt": "Туристи йдуть по пішохідному мосту над прірвою",
-      "text": "Тури"
+      "alt": "Tourists walking on a suspension bridge over a gorge",
+      "text": "Tours"
     },
     {
       "id": 5,
@@ -44,18 +44,17 @@
       "height": 480,
       "sizes": "(max-width: 480px) 156px, (max-width: 1280px) 334px",
       "src": "/images/activities/img-5.webp",
-      "alt": "Туристи на рафті в бурхливому порозі гірської річки",
-      "text": "Cплави на катамаранах, каное, рафтінг"
+      "alt": "Tourists rafting in a rapid mountain river",
+      "text": "Catamaran Rafting, Canoeing, Rafting"
     },
-
     {
       "id": 6,
       "width": 455,
       "height": 640,
       "sizes": "(max-width: 480px) 140px, (max-width: 1280px) 304px, 455px",
       "src": "/images/activities/img-6.webp",
-      "alt": "Затишна вулиця старого европейського міста",
-      "text": "Пізнавальні екскурсії"
+      "alt": "A cozy street in an old European city",
+      "text": "Sightseeing Tours"
     }
   ]
 }
